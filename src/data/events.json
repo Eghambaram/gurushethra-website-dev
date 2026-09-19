@@ -1,0 +1,72 @@
+[
+  {
+    "id": "summer-camp-2025",
+    "slug": "summer-camp-2025",
+    "title": "Summer Intensive Camp 2025",
+    "type": "camp",
+    "status": "upcoming",
+    "date": "2025-05-10",
+    "endDate": "2025-05-15",
+    "time": "7:00 AM – 12:00 PM",
+    "venue": "Sai Dojo, Chromepet, Chennai",
+    "description": "A six-day intensive training camp covering advanced kata, kumite, physical conditioning, and Silambam. Open to all students from yellow belt and above. Limited seats per batch.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6gysZdkyuGpnZUgT_UxnptbcuXDnRYTy31rLDFcR-Ne4GepMXNYzPX6RwNZRr47mWto_FOkM0gkLxepfyNdmsSWrBmRCuW4nz4ZIENmSeVla_BkP6s9iGyZ3800cHCQ_Q4ujOF0gCO4o/w553-h416/IMG_20211205_174239.jpg",
+    "featured": true
+  },
+  {
+    "id": "belt-grading-june-2025",
+    "slug": "belt-grading-june-2025",
+    "title": "Belt Grading Examination — June 2025",
+    "type": "grading",
+    "status": "upcoming",
+    "date": "2025-06-14",
+    "endDate": "2025-06-14",
+    "time": "9:00 AM – 1:00 PM",
+    "venue": "All GIMA Centres, Chennai",
+    "description": "Bi-annual belt grading examination for all levels. Students must have completed minimum training hours and have instructor clearance to appear. Evaluations include kihon, kata, kumite, discipline, attendance, and overall improvement.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsa_Uha0NDvvOcEdyb9HzymD7Mp4EMdJhOpfV9-xcLob1T-cAFr_mhiFqqdZhyphenhyphenB6W-RFX2BF7xMZNwGZ3RSGaYCBSJrn6Ry-WukbuS6gN886tAttXG5Qot-DOpER_TZABxo8xwCVnWj3wi3Ib0onrogGpHFPfer_ro4P7Rz-ig2Xn6PmmlIMggvL4k58c/w591-h333/IMG_9011%20Large%20Medium.jpeg",
+    "featured": true
+  },
+  {
+    "id": "tamil-nadu-state-championship-2025",
+    "slug": "tamil-nadu-state-championship-2025",
+    "title": "Tamil Nadu State Karate Championship 2025",
+    "type": "tournament",
+    "status": "upcoming",
+    "date": "2025-08-02",
+    "endDate": "2025-08-03",
+    "time": "8:00 AM – 6:00 PM",
+    "venue": "Jawaharlal Nehru Indoor Stadium, Chennai",
+    "description": "GIMA is proud to send its competition students to the Tamil Nadu State Karate Championship 2025. The tournament features Kata and Kumite events across all age groups. Come support our athletes!",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZWNKq_db2VlTNo1K-Gq3sO6LE3oNgv_ykj5i7FfF_zkzQB-zD7cdw_bAiLwnBJ0aP2MXqtVPQKBCE2nXrk1DqfcI-Fsm86ee9O8okaAhLCwlYXrIILBwtyEF9XBb8BkqWSYi_FqYnnos_y5qJwNaSCDLngIVFP-3XetotT1RCWEvxojGfoFu0QBHwnw/w399-h299/IMG_9252.jpeg",
+    "featured": true
+  },
+  {
+    "id": "district-championship-2024",
+    "slug": "district-championship-2024",
+    "title": "Chennai District Karate Championship 2024",
+    "type": "tournament",
+    "status": "past",
+    "date": "2024-11-10",
+    "endDate": "2024-11-10",
+    "time": "8:00 AM – 5:00 PM",
+    "venue": "Chennai, Tamil Nadu",
+    "description": "GIMA students represented the academy at the Chennai District Karate Championship, delivering strong performances across junior and senior categories.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwW0WUYC4i12ymH2hTSid3hXuU2-2v8qR7cGBJu3BASf3f1h-GPlxwetxxRF_Or-vpkvKwJPR9lea1zdeBZZpHOUNbZ_hrHj-Xto1LuWahM1jhrnXhJLm9mFn0cthcYYjNTW0oG7MaQ8/s640/IMG_20181104_191623.jpg",
+    "featured": false
+  },
+  {
+    "id": "belt-grading-dec-2024",
+    "slug": "belt-grading-dec-2024",
+    "title": "Belt Grading Examination — December 2024",
+    "type": "grading",
+    "status": "past",
+    "date": "2024-12-07",
+    "endDate": "2024-12-07",
+    "time": "9:00 AM – 1:00 PM",
+    "venue": "All GIMA Centres, Chennai",
+    "description": "Successful grading ceremony with students advancing across belt levels. Evaluations conducted by qualified examiners under Aasan Saravanan T.",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvmr_yolnCL0EO3Z3iUduL4VdcD_az3os00Dnx5HOBpbQcrEZTrBWvEWhScx6YSvU7nQFAeU0Cu_Uu2_ZCiYjc56rM_i8OsvxMzZ8Citz_dW3gdeaF4dY2lRmbmU-32FGu6YnXf9vzsZWnkM5gJslIv98bl_dpOIRBr6uV9eR5gmz3A22zCa7jBQBcRC8/w300-h400/IMG_6727.jpeg",
+    "featured": false
+  }
+]

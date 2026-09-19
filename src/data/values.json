@@ -1,0 +1,32 @@
+[
+  {
+    "id": "discipline",
+    "icon": "Sword",
+    "title": "Discipline",
+    "description": "Every great achievement begins with consistent, purposeful practice. We instil discipline that extends far beyond the dojo."
+  },
+  {
+    "id": "respect",
+    "icon": "HandHeart",
+    "title": "Respect",
+    "description": "From bowing to your sensei to honouring your opponent — respect is the foundation of every interaction at GIMA."
+  },
+  {
+    "id": "strength",
+    "icon": "Dumbbell",
+    "title": "Strength",
+    "description": "Physical and mental strength built through rigorous, progressive training that pushes every student to grow safely."
+  },
+  {
+    "id": "focus",
+    "icon": "Target",
+    "title": "Focus",
+    "description": "The ability to be fully present — on the mat and in life. Our training sharpens attention and clears the mind."
+  },
+  {
+    "id": "confidence",
+    "icon": "Star",
+    "title": "Confidence",
+    "description": "We build genuine confidence from earned skill — the quiet self-assurance that comes from knowing what you are capable of."
+  }
+]

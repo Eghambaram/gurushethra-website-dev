@@ -1,0 +1,64 @@
+{
+  "stats": [
+    { "value": 26, "suffix": "+", "label": "Years of Excellence" },
+    { "value": 3, "suffix": "", "label": "International Events" },
+    { "value": 2, "suffix": "", "label": "Countries Represented" },
+    { "value": 6, "suffix": "+", "label": "Major Tournaments" }
+  ],
+  "recent": [
+    {
+      "id": "a1",
+      "year": "2024",
+      "title": "Ipoh City International Open — Malaysia",
+      "result": "India Representation",
+      "medals": { "gold": 0, "silver": 1, "bronze": 1 },
+      "description": "Represented India at the International Open Goju Ryu tournament in Ipoh City, Malaysia — competing against athletes from across Asia.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwW0WUYC4i12ymH2hTSid3hXuU2-2v8qR7cGBJu3BASf3f1h-GPlxwetxxRF_Or-vpkvKwJPR9lea1zdeBZZpHOUNbZ_hrHj-Xto1LuWahM1jhrnXhJLm9mFn0cthcYYjNTW0oG7MaQ8/s640/IMG_20181104_191623.jpg"
+    },
+    {
+      "id": "a2",
+      "year": "2024",
+      "title": "Open Asian Championship — Kazakhstan",
+      "result": "International Representation",
+      "medals": { "gold": 0, "silver": 1, "bronze": 0 },
+      "description": "GIMA athletes competed at the Open Asian Championship in Kazakhstan, marking the institute's second consecutive international appearance.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZWNKq_db2VlTNo1K-Gq3sO6LE3oNgv_ykj5i7FfF_zkzQB-zD7cdw_bAiLwnBJ0aP2MXqtVPQKBCE2nXrk1DqfcI-Fsm86ee9O8okaAhLCwlYXrIILBwtyEF9XBb8BkqWSYi_FqYnnos_y5qJwNaSCDLngIVFP-3XetotT1RCWEvxojGfoFu0QBHwnw/w399-h299/IMG_9252.jpeg"
+    },
+    {
+      "id": "a3",
+      "year": "2023",
+      "title": "Goju Ryu International Tournament — Malaysia",
+      "result": "Gold & Silver Medals",
+      "medals": { "gold": 1, "silver": 1, "bronze": 0 },
+      "description": "Gold and silver medals at the Goju Ryu International Tournament in Malaysia, establishing GIMA's reputation on the international circuit.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSU4VYKu6fFAYjIvjimFvExP1VHCK3M618fHqOO7SdxtWr6qFrR7CriyyElZLzYzEH9rUJhr43Jht6TpuoATy7G9_nceHw-gS4gCxJmBa4Vq3c-OKjdyBWAv8gpNC9KLv6QetN4QL34QKH2ygD_8rgkRh-k8ZBVo6R19IagIewkSpJR2hSRsYIMu8roB8/w584-h328/IMG_2351.jpg"
+    },
+    {
+      "id": "a4",
+      "year": "2021",
+      "title": "National Referee Camp",
+      "result": "National Recognition",
+      "medals": { "gold": 0, "silver": 0, "bronze": 0 },
+      "description": "GIMA instructors participated in the National Referee Camp, contributing to the development of officiating standards across India.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsa_Uha0NDvvOcEdyb9HzymD7Mp4EMdJhOpfV9-xcLob1T-cAFr_mhiFqqdZhyphenhyphenB6W-RFX2BF7xMZNwGZ3RSGaYCBSJrn6Ry-WukbuS6gN886tAttXG5Qot-DOpER_TZABxo8xwCVnWj3wi3Ib0onrogGpHFPfer_ro4P7Rz-ig2Xn6PmmlIMggvL4k58c/w591-h333/IMG_9011%20Large%20Medium.jpeg"
+    },
+    {
+      "id": "a5",
+      "year": "2021",
+      "title": "Udumalaipetai National Tournament",
+      "result": "Podium Finishes",
+      "medals": { "gold": 1, "silver": 2, "bronze": 2 },
+      "description": "Strong podium performance at the national tournament, with multiple students placing in Karate and Silambam categories.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrwW0WUYC4i12ymH2hTSid3hXuU2-2v8qR7cGBJu3BASf3f1h-GPlxwetxxRF_Or-vpkvKwJPR9lea1zdeBZZpHOUNbZ_hrHj-Xto1LuWahM1jhrnXhJLm9mFn0cthcYYjNTW0oG7MaQ8/s640/IMG_20181104_191623.jpg"
+    },
+    {
+      "id": "a6",
+      "year": "2018",
+      "title": "National Tournament",
+      "result": "National Recognition",
+      "medals": { "gold": 0, "silver": 1, "bronze": 2 },
+      "description": "Early national-level recognition for GIMA students, laying the foundation for the international campaigns that followed.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGZWNKq_db2VlTNo1K-Gq3sO6LE3oNgv_ykj5i7FfF_zkzQB-zD7cdw_bAiLwnBJ0aP2MXqtVPQKBCE2nXrk1DqfcI-Fsm86ee9O8okaAhLCwlYXrIILBwtyEF9XBb8BkqWSYi_FqYnnos_y5qJwNaSCDLngIVFP-3XetotT1RCWEvxojGfoFu0QBHwnw/w399-h299/IMG_9252.jpeg"
+    }
+  ]
+}

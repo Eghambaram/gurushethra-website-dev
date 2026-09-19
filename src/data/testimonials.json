@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t1",
+    "name": "Parent",
+    "role": "Parent of Student",
+    "rating": 5,
+    "quote": "Excellent coaching with a strong focus on discipline and confidence. My child has transformed in just a few months — more focused, more respectful, and genuinely excited to attend every class."
+  },
+  {
+    "id": "t2",
+    "name": "Student",
+    "role": "Kids Karate Student",
+    "rating": 5,
+    "quote": "A wonderful place for children to learn traditional karate. The atmosphere is welcoming, the instruction is structured, and Aasan Saravanan genuinely cares about every student's progress."
+  },
+  {
+    "id": "t3",
+    "name": "Adult Student",
+    "role": "Adult Karate Student",
+    "rating": 5,
+    "quote": "Professional instructors and a very positive learning environment. I joined as a complete beginner and the progress I have made in fitness, flexibility, and self-confidence has been incredible."
+  }
+]

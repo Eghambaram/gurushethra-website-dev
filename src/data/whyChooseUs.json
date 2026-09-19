@@ -1,0 +1,38 @@
+[
+  {
+    "id": "instructor",
+    "icon": "ShieldCheck",
+    "title": "VII Dan Black Belt Instructor",
+    "description": "Aasan Saravanan T. holds a VII Dan Black Belt awarded in Malaysia — over two decades of authentic Okinawan Goju-Ryu teaching experience."
+  },
+  {
+    "id": "competition",
+    "icon": "Trophy",
+    "title": "Proven Competition Results",
+    "description": "GIMA students compete at district, state, national, and international levels. Our training methods are tested in real competition, not just theory."
+  },
+  {
+    "id": "all-ages",
+    "icon": "Users",
+    "title": "All Ages, All Levels",
+    "description": "Programs from age 4 to adult, complete beginner to black belt. Every student gets a structured curriculum with dedicated instructor time."
+  },
+  {
+    "id": "traditional",
+    "icon": "Sword",
+    "title": "Traditional Okinawan Karate",
+    "description": "We teach the full art — traditional Goju-Ryu kata, kumite, bunkai, self-defence, and Silambam. Discipline and character are central to every class."
+  },
+  {
+    "id": "grading",
+    "icon": "Clock",
+    "title": "Regular Belt Examinations",
+    "description": "Structured grading schedule conducted by qualified examiners. Every belt at GIMA is genuinely earned through kihon, kata, kumite, and character."
+  },
+  {
+    "id": "centres",
+    "icon": "MapPin",
+    "title": "4 Centres Across Chennai",
+    "description": "Training at Chromepet, Chitlapakkam (2 locations), and Nemilichery — always close to home, with batches designed around school and work schedules."
+  }
+]

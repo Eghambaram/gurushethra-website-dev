@@ -1,0 +1,110 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Brand tokens */
+  --color-brand-background: #0B0B0B;
+  --color-brand-gold: #D4AF37;
+  --color-brand-red: #8B1E1E;
+  --color-brand-surface: #141414;
+  --color-brand-surface-2: #1A1A1A;
+  --color-brand-surface-alt: #0F0F0F;
+  --color-brand-gold-muted: #D4AF3733;
+
+  /* Fonts */
+  --font-heading: var(--font-poppins);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-geist-mono);
+
+  /* Map shadcn tokens to dark theme */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+}
+
+/* Always-dark theme */
+:root {
+  --background: #0B0B0B;
+  --foreground: #F5F5F5;
+  --card: #141414;
+  --card-foreground: #F5F5F5;
+  --popover: #141414;
+  --popover-foreground: #F5F5F5;
+  --primary: #D4AF37;
+  --primary-foreground: #0B0B0B;
+  --secondary: #8B1E1E;
+  --secondary-foreground: #F5F5F5;
+  --muted: #1A1A1A;
+  --muted-foreground: #9CA3AF;
+  --accent: #1A1A1A;
+  --accent-foreground: #F5F5F5;
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: rgba(255,255,255,0.08);
+  --input: rgba(255,255,255,0.08);
+  --ring: #D4AF37;
+  --radius: 0.5rem;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-[#0B0B0B] text-foreground font-sans;
+  }
+  html {
+    @apply h-full antialiased;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Smooth scrolling is triggered deliberately via JS (see utils/scroll.ts) rather than
+   globally in CSS — a global `scroll-behavior: smooth` also animates Next.js's
+   scroll-to-top on every route change, which looks janky, not smooth. */
+
+/* Anchor links clear the fixed navbar (80px desktop, 64px mobile) */
+html {
+  scroll-padding-top: 64px;
+}
+@media (min-width: 1024px) {
+  html {
+    scroll-padding-top: 80px;
+  }
+}
+
+/* Respect reduced-motion: cut all transitions and animations */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "tiny-tigers",
+    "slug": "tiny-tigers",
+    "title": "Tiny Tigers",
+    "ageRange": "4–6 Years",
+    "shortDescription": "Fun karate activities that build coordination, balance, discipline, and early confidence through movement and play.",
+    "description": "Our Tiny Tigers program is designed specifically for young children aged 4–6. Through age-appropriate games, basic techniques, and structured routines, children develop gross motor skills, focus, and the foundational values of martial arts — all in a safe, encouraging environment.",
+    "image": "/images/littleTiger.jpg",
+    "features": ["Basic coordination & balance", "Discipline & focus", "Fun karate activities", "Bully awareness"],
+    "duration": "60-minute classes",
+    "schedule": "Sat & Sun: 4:00 PM – 5:30 PM (Chitlapakkam)",
+    "featured": true
+  },
+  {
+    "id": "kids-karate",
+    "slug": "kids-karate",
+    "title": "Kids Karate",
+    "ageRange": "7–12 Years",
+    "shortDescription": "Traditional karate, fitness, confidence, discipline, and self-defence in a structured belt curriculum.",
+    "description": "The Kids Karate program takes children aged 7–12 through the full Goju-Ryu curriculum. Students learn stances, strikes, blocks, kicks, kata (forms), and basic kumite (sparring) as they progress through the belt system from white to brown.",
+    "image": "/images/juniorkids.jpg",
+    "features": ["Full belt curriculum", "Kata & kumite", "Self-defence fundamentals", "Character building"],
+    "duration": "90-minute classes",
+    "schedule": "Fri – Sun: 6:00 PM – 7:30 PM (Sai Dojo)",
+    "featured": true
+  },
+  {
+    "id": "junior-karate",
+    "slug": "junior-karate",
+    "title": "Junior Karate",
+    "ageRange": "13–17 Years",
+    "shortDescription": "Advanced techniques, sparring, strength training, and competition coaching for serious young practitioners.",
+    "description": "Junior Karate is a high-energy program for teenagers who want to push beyond the basics. Students build on foundational skills with advanced kata, sport kumite strategy, strength conditioning, and mental preparation — ready for district, state, and national competitions.",
+    "image": "/images/teenwarriors.jpg",
+    "features": ["Advanced kata & bunkai", "Sport kumite strategy", "Competition coaching", "Mental resilience"],
+    "duration": "90-minute classes",
+    "schedule": "Tue & Thu: 6:00 PM – 7:30 PM (Loyola School)",
+    "featured": false
+  },
+  {
+    "id": "adult-karate",
+    "slug": "adult-karate",
+    "title": "Adult Karate",
+    "ageRange": "18+ Years",
+    "shortDescription": "Fitness, self-defence, flexibility, stress relief, and traditional Okinawan Goju-Ryu for adults of all levels.",
+    "description": "Never too late to start. Our Adult Karate program offers a full traditional Goju-Ryu curriculum tailored to adult learning. Whether you are a complete beginner or returning to the mat, you will train in a respectful, no-judgment environment — building fitness, flexibility, and black-belt discipline.",
+    "image": "/images/adults.jpg",
+    "features": ["Full Goju-Ryu syllabus", "Fitness & stress relief", "Flexibility training", "White to black belt path"],
+    "duration": "90-minute classes",
+    "schedule": "Mon & Wed: 5:30 PM – 6:30 PM (Nemilichery)",
+    "featured": true
+  },
+  {
+    "id": "silambam",
+    "slug": "silambam",
+    "title": "Silambam",
+    "ageRange": "All Ages",
+    "shortDescription": "Ancient Tamil stick martial art — combining agility, coordination, rhythm, and traditional weaponry under a certified Silambam instructor.",
+    "description": "Silambam is one of the oldest martial arts in the world, originating in Tamil Nadu. At GIMA, Silambam is taught by Aasan Saravanan T., a certified Silambam instructor with Silver Grade distinction from Madurai. Students learn the art of bamboo staff techniques, footwork patterns, attack and defence sequences, and the cultural heritage behind this uniquely Tamil tradition.",
+    "image": "/images/silambam.jpg",
+    "features": ["Bamboo staff techniques", "Footwork & agility", "Traditional Tamil art form", "Certified Silambam instructor"],
+    "duration": "90-minute classes",
+    "schedule": "Enquire for available batches",
+    "featured": true
+  },
+  {
+    "id": "womens-self-defence",
+    "slug": "womens-self-defence",
+    "title": "Women's Self Defence",
+    "ageRange": "16+ Years",
+    "shortDescription": "Practical self-defence techniques and confidence-building in a safe, empowering environment.",
+    "description": "Designed specifically for women, this program focuses on real-world self-defence using Goju-Ryu principles. Participants learn situational awareness, escape techniques, and confidence in a safe, supportive space. No prior experience is needed — only the willingness to learn.",
+    "image": "/images/selfdefense.jpg",
+    "features": ["Practical scenario training", "Escape & defence techniques", "Situational awareness", "Confidence building"],
+    "duration": "90-minute classes",
+    "schedule": "Enquire for available batches",
+    "featured": false
+  }
+]

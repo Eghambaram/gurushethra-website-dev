@@ -1,0 +1,54 @@
+[
+  {
+    "id": "sai-dojo",
+    "slug": "sai-dojo",
+    "name": "Sai Dojo — Chromepet",
+    "type": "headquarters",
+    "address": "Station Road, Radha Nagar, Chromepet, Chennai – 600044",
+    "phone": "+91 63821 10788",
+    "email": "gurushethra1991@gmail.com",
+    "hours": "Fri – Sun: 6:00 PM – 7:30 PM",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.5!2d80.1411!3d12.9516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU3JzA1LjgiTiA4MMKwMDgnMjguMCJF!5e0!3m2!1sen!2sin!4v1700000000001",
+    "features": ["Main Training Hall", "All Belt Levels", "Karate & Silambam"],
+    "featured": true
+  },
+  {
+    "id": "annai-violet",
+    "slug": "annai-violet",
+    "name": "Annai Violet School — Chitlapakkam",
+    "type": "branch",
+    "address": "Annai Violet Matric Higher Secondary School, Chitlapakkam, Chennai",
+    "phone": "+91 63821 10788",
+    "email": "gurushethra1991@gmail.com",
+    "hours": "Sat & Sun: 4:00 PM – 5:30 PM",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.0!2d80.1350!3d12.9350!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU2JzA2LjAiTiA4MMKwMDgnMDYuMCJF!5e0!3m2!1sen!2sin!4v1700000000002",
+    "features": ["Kids & Junior Classes", "School Campus", "Weekends Only"],
+    "featured": false
+  },
+  {
+    "id": "loyola-school",
+    "slug": "loyola-school",
+    "name": "Loyola School — Chitlapakkam",
+    "type": "branch",
+    "address": "Loyola Matric Higher Secondary School, Chitlapakkam, Chennai",
+    "phone": "+91 63821 10788",
+    "email": "gurushethra1991@gmail.com",
+    "hours": "Tue & Thu: 6:00 PM – 7:30 PM",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.0!2d80.1360!3d12.9360!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU2JzA5LjYiTiA4MMKwMDgnMDkuNiJF!5e0!3m2!1sen!2sin!4v1700000000003",
+    "features": ["Junior & Teen Classes", "School Campus", "Weekday Evenings"],
+    "featured": false
+  },
+  {
+    "id": "kv-garden",
+    "slug": "kv-garden",
+    "name": "KV Garden — Nemilichery",
+    "type": "branch",
+    "address": "KV Garden, Nemilichery, Chennai",
+    "phone": "+91 63821 10788",
+    "email": "gurushethra1991@gmail.com",
+    "hours": "Mon & Wed: 5:30 PM – 6:30 PM",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.0!2d80.1500!3d12.9600!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTLCsDU3JzM2LjAiTiA4MMKwMDknMDAuMCJF!5e0!3m2!1sen!2sin!4v1700000000004",
+    "features": ["Adult Classes", "Outdoor-style Setting", "Weekday Evenings"],
+    "featured": false
+  }
+]

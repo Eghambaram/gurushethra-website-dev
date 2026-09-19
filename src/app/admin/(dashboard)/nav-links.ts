@@ -1,0 +1,33 @@
+import {
+  LayoutDashboard,
+  Settings,
+  Sparkles,
+  Info,
+  User,
+  Users,
+  BookOpen,
+  Images,
+  Calendar,
+  Trophy,
+  MapPin,
+  MessageSquare,
+  HelpCircle,
+  Inbox,
+} from "lucide-react";
+
+export const ADMIN_NAV = [
+  { label: "Dashboard", href: "/admin", icon: LayoutDashboard, description: "Overview" },
+  { label: "Site Settings", href: "/admin/settings", icon: Settings, description: "Contact info, social links, global details" },
+  { label: "Hero", href: "/admin/hero", icon: Sparkles, description: "Home page hero section" },
+  { label: "About Page", href: "/admin/about", icon: Info, description: "Story, timeline, values, why-choose-us" },
+  { label: "Instructor", href: "/admin/instructor", icon: User, description: "Founder profile" },
+  { label: "Team", href: "/admin/team", icon: Users, description: "Staff roster" },
+  { label: "Programs", href: "/admin/programs", icon: BookOpen, description: "Class offerings" },
+  { label: "Gallery", href: "/admin/gallery", icon: Images, description: "Photo gallery" },
+  { label: "Events", href: "/admin/events", icon: Calendar, description: "Camps, gradings, tournaments" },
+  { label: "Achievements", href: "/admin/achievements", icon: Trophy, description: "Stats & recent wins" },
+  { label: "Branches", href: "/admin/branches", icon: MapPin, description: "Training centres" },
+  { label: "Testimonials", href: "/admin/testimonials", icon: MessageSquare, description: "Student reviews" },
+  { label: "FAQ", href: "/admin/faq", icon: HelpCircle, description: "Frequently asked questions" },
+  { label: "Submissions", href: "/admin/submissions", icon: Inbox, description: "Contact form entries" },
+] as const;

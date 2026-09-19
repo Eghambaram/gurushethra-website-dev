@@ -1,0 +1,23 @@
+{
+  "headlineLines": [
+    "Forge Your",
+    "Strength.",
+    "Master Your",
+    "Discipline."
+  ],
+  "subCopy": "Premier Okinawan Goju-Ryu Karate training in Chennai — building champions on the mat and leaders in life since 1998.",
+  "ctaPrimary": { "label": "Book Free Trial", "href": "/contact" },
+  "ctaSecondary": { "label": "Explore Programs", "href": "/programs" },
+  "stats": [
+    { "value": 26, "suffix": "+", "label": "Years of Excellence" },
+    { "value": 4, "suffix": "", "label": "Training Centres" },
+    { "value": 7, "suffix": "th", "label": "Dan Black Belt Instructor" },
+    { "value": 6, "suffix": "", "label": "Class Categories" }
+  ],
+  "trustBadges": [
+    { "icon": "ShieldCheck", "text": "VII Dan Certified Instructor" },
+    { "icon": "Trophy", "text": "International Champions" },
+    { "icon": "Users", "text": "All Ages Welcome" }
+  ],
+  "backgroundImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKyLxf_xVfqZvOwjT00qOU0GfdckkwUEVEdTE1ayiBzifSOOx0cccsfomzX-OtDpb_SoOxBq7dYvkkqQgd4v44QZ1lnu6EgOQKXtysOC5TERco6y5CRT9cM7NWzPo7ya28vBXWN1IU1YiCD8ksgAqHUvWCGPPsIR7FmR3PRiq4zD4NyVvqo2rHRzLGYWU/s3048/IMG_3407.jpeg"
+}

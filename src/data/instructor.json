@@ -1,0 +1,32 @@
+{
+  "name": "Aasan Saravanan T.",
+  "title": "Founder & President",
+  "dan": "VII Dan Black Belt",
+  "style": "Okinawan Goju-Ryu Karate-Do",
+  "shortBio": "A VII Dan Black Belt with over two decades of teaching experience, Aasan Saravanan T. founded GIMA in 1998 and still trains alongside students at every one of its four centres.",
+  "bio": "Aasan Saravanan T. has dedicated more than two decades to the art of Okinawan Goju-Ryu Karate. What began as a personal pursuit grew into a lifelong mission — to preserve traditional martial arts and make world-class training accessible to every student in Chennai, regardless of age or background. Under his leadership, GIMA has grown to four centres and continues to produce champions of both character and competition.",
+  "bioExtended": "A VII Dan Black Belt awarded in Malaysia, Aasan Saravanan is also a qualified Silambam instructor and holds a Silver Grade from Madurai — a testament to his breadth of martial arts mastery. With a B.A. and Diploma in Yoga Teaching (D.Y.T.), he brings a holistic approach to training: physical conditioning, mental discipline, breathing, and meditation are as central to his classes as kata and kumite. His philosophy is simple — karate is not just a sport, it is a way of life.",
+  "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvmr_yolnCL0EO3Z3iUduL4VdcD_az3os00Dnx5HOBpbQcrEZTrBWvEWhScx6YSvU7nQFAeU0Cu_Uu2_ZCiYjc56rM_i8OsvxMzZ8Citz_dW3gdeaF4dY2lRmbmU-32FGu6YnXf9vzsZWnkM5gJslIv98bl_dpOIRBr6uV9eR5gmz3A22zCa7jBQBcRC8/w300-h400/IMG_6727.jpeg",
+  "stats": [
+    { "value": 20, "suffix": "+", "label": "Years Teaching" },
+    { "value": 7, "suffix": "th", "label": "Dan Black Belt" },
+    { "value": 4, "suffix": "", "label": "Training Centres" },
+    { "value": 6, "suffix": "", "label": "Class Categories" }
+  ],
+  "qualifications": [
+    "VII Dan Black Belt — Okinawan Goju-Ryu Karate-Do (Malaysia)",
+    "Silambam Instructor",
+    "Silver Grade — Madurai",
+    "B.A. Graduate",
+    "Diploma in Yoga Teaching (D.Y.T.)",
+    "Founder, Gurushethra Institute of Martial Arts (Est. 1998)"
+  ],
+  "achievements": [
+    "Established GIMA in 1998 — one of Chennai's leading traditional karate academies",
+    "Awarded VII Dan Black Belt in Malaysia",
+    "Certified Silambam Instructor with Silver Grade distinction",
+    "More than two decades of continuous martial arts teaching",
+    "Developed structured belt curriculum for children, teens, and adults",
+    "Led GIMA students to district, state, and national-level competitions"
+  ]
+}
