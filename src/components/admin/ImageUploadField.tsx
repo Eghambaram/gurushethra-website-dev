@@ -33,6 +33,13 @@ export function ImageUploadField({
     if (!file) return;
     setError(null);
 
+    const maxSizeBytes = 5 * 1024 * 1024;
+    if (file.size > maxSizeBytes) {
+      setError(`Image must be 5MB or smaller (yours is ${(file.size / (1024 * 1024)).toFixed(1)}MB). Please choose a smaller file.`);
+      e.target.value = "";
+      return;
+    }
+
     const formData = new FormData();
     formData.append("file", file);
 
@@ -50,7 +57,7 @@ export function ImageUploadField({
     <div className="flex flex-col gap-2">
       <div className="flex items-center justify-between">
         <label className="text-sm font-semibold text-gray-300">{label}</label>
-        {recommendedSize && <span className="text-[11px] text-gray-600">Recommended: {recommendedSize}</span>}
+        <span className="text-[11px] text-gray-600">{recommendedSize ? `Recommended: ${recommendedSize} · ` : ""}Max 5MB</span>
       </div>
 
       {url && (

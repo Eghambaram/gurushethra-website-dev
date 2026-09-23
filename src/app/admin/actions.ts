@@ -42,7 +42,7 @@ export async function uploadImage(formData: FormData): Promise<UploadResult> {
   const file = formData.get("file");
   if (!(file instanceof File)) return { error: "No file provided." };
   if (!file.type.startsWith("image/")) return { error: "Only image files are allowed." };
-  if (file.size > 10 * 1024 * 1024) return { error: "Image must be under 10MB." };
+  if (file.size > 5 * 1024 * 1024) return { error: "Image must be 5MB or smaller. Please choose a smaller file." };
 
   try {
     const buffer = Buffer.from(await file.arrayBuffer());

@@ -1,6 +1,15 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  experimental: {
+    // Admin image uploads go through the uploadImage server action; cap it a bit
+    // above our 5MB app-level limit (src/app/admin/actions.ts) to leave headroom
+    // for multipart overhead so a 5MB file never hits Next's raw 1MB default and
+    // surfaces as an unhandled 413 instead of our friendly validation message.
+    serverActions: {
+      bodySizeLimit: "6mb",
+    },
+  },
   images: {
     // Corporate proxy intercepts HTTPS server-side (UNABLE_TO_GET_ISSUER_CERT_LOCALLY).
     // Disabled only in development; Vercel production gets full optimization (WebP/AVIF, resizing).
